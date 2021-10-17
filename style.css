@@ -118,7 +118,7 @@ body {
 }
 
 .calculator {
-    padding: 2rem;
+    padding: 2rem ;
     border-radius: 10px;
 }
 
@@ -225,16 +225,16 @@ body {
 
      .screen {
          font-size: 20px;
-         padding: 1rem 
+         padding: 1.8rem 
      }
 
      .buttons {
-         padding: .5rem;
+         padding: 1rem;
      }
 
      .calculator {
-         padding: .6rem;
-         margin-top: 5rem;
+         padding: 1rem;
+         margin-top: 4rem;
      }
 
      .btn-container .btn-blue {
@@ -243,11 +243,11 @@ body {
       }
 
       .header h2 {
-          font-size: 15px;
+          font-size: 20px;
       }
 
     .header p {
-          font-size: 5px;
+          font-size: 6px;
       }
 
       .btn-blue {
